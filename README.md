@@ -1,2 +1,2 @@
 # Failure-Rate-Anomaly-Detection
-A demo of the anomaly detection technics used in Lenovo SSC, with desensitized data
+A summary of my failure rate warning and prediction project for Lenovo SSC, with desensitized data.
